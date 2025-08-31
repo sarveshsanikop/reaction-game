@@ -52,3 +52,9 @@ You need to have [Node.js](https://nodejs.org/) (v16+) installed on your compute
 2. **Click the Targets:** Click the cyan targets as quickly as possible when they appear on the screen.  
 3. **Survive the Clock:** The game ends when the 30-second timer runs out.  
 4. **Make the Leaderboard:** If your score is high enough, you'll be prompted to enter your name and save it to the local leaderboard\!
+
+---
+
+## 🐛 Known Issues
+
+-   There are currently no known issues with the application. All features are working as intended.
