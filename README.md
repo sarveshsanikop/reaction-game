@@ -3,7 +3,7 @@
 A polished, responsive web-based game designed to test and track a player's reaction speed. Built with modern frontend technologies, this project emphasizes smooth animations, engaging gameplay loops, and a clean user experience. This project was developed as a frontend internship assignment.
 
 ➡️ View Live Demo Here  
-(Remember to replace this link with your actual Vercel/Netlify URL)  
+(https://reaction-rush.netlify.app/)  
 **Important:** Create a 15-30 second screen recording of your game and replace this section with a GIF or video link. You can use free tools like [Giphy Capture](https://giphy.com/apps/giphycapture) or [ScreenToGif](https://www.screentogif.com/) to easily create a GIF.
 
 ## **✨ Features**
@@ -44,7 +44,7 @@ You need to have [Node.js](https://nodejs.org/) (v16+) installed on your compute
 3. **Run the local development server:**  
    npm run dev
 
-   The application will then be available at http://localhost:5173.
+   The application will then be available at https://reaction-rush.netlify.app/.
 
 ## **🎮 How to Play**
 
